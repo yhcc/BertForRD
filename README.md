@@ -23,7 +23,7 @@ mono/ # this folder contains the code to run the monolingual reverse dictionayr 
 
 
 To ease the reproduction, we copied the data from https://github.com/thunlp/MultiRD and https://github.com/muhaochen/bilingual_dictionaries
- to the 'data/' folder
+ to the 'data.zip' file, unzip it will have the following folders
  ```
 - cn  # Chinese reverse dictionary dataset released in `Multi-channel Reverse Dictionary Model, AAAI 2020`
     - desc.json  # Contains 200 word-description pairs give by Chinese native speaker
