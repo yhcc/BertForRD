@@ -1,4 +1,4 @@
-This is the code for ``BERT for Monolingual and Cross-Lingual Reverse Dictionary``
+This is the code for ``BERT for Monolingual and Cross-Lingual Reverse Dictionary``. 如果您发现github网速较慢，您也可以在https://gitee.com/yh_cc/BertForRD 下载代码和数据。
 
 python package requirements
 ```python
